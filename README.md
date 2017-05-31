@@ -22,6 +22,8 @@ For example, to get GET route, send a GET request to http://localhost:3000/api/b
 First send a POST request with following json as a body parameter, otherwise it'll throw an error
 
   `{
-      "id": "1",
-      "name": "teddy"
+        "bear": {
+          "id": "1",
+          "name": "teddy"
+        }
     }`
