@@ -2,8 +2,8 @@
 
 ### Steps to run
 
-`npm install`
-`npm start`
+1. `npm install`
+2. `npm start`
 
 ### API Reference
 |Route         | HTTP Verb   |Description         |
