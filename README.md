@@ -15,7 +15,7 @@
 
 ### Use POSTMAN to test the API
 
-For example, to get GET route, send a GET request to http://localhost:3000/api/bears
+For example, to test GET route, send a GET request to http://localhost:3000/api/bears
 
 ## NOTE
 
